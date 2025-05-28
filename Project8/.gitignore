@@ -1,0 +1,66 @@
+## JetBrains Rider
+.idea/
+*.sln.iml
+
+## Rider のキャッシュ
+.idea/
+.idea_modules/
+*.ipr
+*.iws
+out/
+
+# Build results
+bin/
+obj/
+*.exe
+*.dll
+*.app
+*.so
+*.dylib
+*.lib
+*.pdb
+*.cache
+*.log
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS と共通のキャッシュ系
+.vs/
+*.VC.db
+*.ipch
+*.db
+*.tlog
+*.ilk
+*.idb
+*.pch
+*.pdb
+
+# OSごとの不要ファイル
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Unity（使っている場合）
+Library/
+Temp/
+Build/
+obj/
+MemoryCaptures/
+*.unitypackage
+
+# Rider用 Git 追跡対象外設定（JetBrains の推奨）
+*.sln.iml
+.idea/.idea.*
+
+# その他拡張子ベースでの無視
+*.tmp
+*.bak
+*.swp
+*.old
+*.orig

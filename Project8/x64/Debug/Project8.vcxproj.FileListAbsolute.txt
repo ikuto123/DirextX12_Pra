@@ -1,0 +1,4 @@
+C:\Users\aon51\source\repos\Project8\x64\Debug\D3D12\D3D12Core.dll
+C:\Users\aon51\source\repos\Project8\x64\Debug\D3D12\D3D12Core.pdb
+C:\Users\aon51\source\repos\Project8\x64\Debug\D3D12\D3D12SDKLayers.dll
+C:\Users\aon51\source\repos\Project8\x64\Debug\D3D12\D3D12SDKLayers.pdb
